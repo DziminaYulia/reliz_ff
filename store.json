@@ -1,67 +1,113 @@
 [
 {
-    "title":"стілець",
+    "title":"Стілець",
     "price": 1300,
     "img":"8658833_2.webp",
-    "description":"стул "
+    "description":"Стілець "
 },
 
 {
-    "title":"настільна лампа",
+    "title":"Настільна лампа",
     "price":2500 ,
     "img":"bb-79f8a48860f88.jpg",
-    "description":"лампа"
+    "description":"Лампа"
 },
 {
-    "title":"диван",
+    "title":"Диван",
     "price": 12000,
     "img":"2187113053_310_430.jpg",
-    "description":" диван"
+    "description":" Диван"
 },
 
 {
-    "title":"кухонний стіл",
+    "title":"Кухонний стіл",
     "price": 17000,
     "img":"kukhonnyi-stil-martin-black-01-s-54370080748739.jpg",
-    "description":" стіл"
+    "description":" Стіл"
 },
 
 {
-    "title":" телевізор",
+    "title":" Телевізор",
     "price": 22000,
     "img":"w_1440.webp",
-    "description":" телевізор"
+    "description":" Телевізор"
 },
 
 {
-    "title":"тостер",
+    "title":"Тостер",
     "price": 1000,
     "img":"MCSA03190363_BO_K_14_KT3_CTAT20_TAT3P423_picture_KF1_perspective_ENG_290519_def.webp",
-    "description":"тостер"
+    "description":"Тостер"
 },
 
 {
-    "title":"ліжко",
+    "title":"Ліжко",
     "price": 36000,
     "img":"lizhko-l031-74239690531011.jpg",
-    "description":"ліжко"
+    "description":"Ліжко"
 },
 
 {
-    "title":"ліжко двоповерхове",
+    "title":"Ліжко двоповерхове",
     "price": 12000,
     "img":"dvoyarusne-lizhko-volodymyr.jpg",
-    "description":" диван"
+    "description":" Диван"
 },
 
 {
-    "title":"унітаз",
+    "title":"Унітаз",
     "price": 7000,
     "img":"1673275476.jpg",
-    "description":" унітаз"
+    "description":" Унітаз"
+},
+
+{   
+    "title":"Ванна",
+    "price": 30000,
+    "img":"vanna-koller-pool-dakota.330x300.png",
+    "description":" Ванна"
+},
+
+{
+    "title":"Ліжко дитяче поліція",
+    "price": 10000,
+    "img":"w550_content_catalog_images_2023_01_14_izobrazhenie_viber_2022-10-06_23-26-21-486-01-01.jpeg",
+    "description":"Ліжко дитяче поліція"
+},
+
+{   
+    "title":"Крісло-качалка",
+    "price": 5000,
+    "img":"shopping.webp",
+    "description":" Крісло-качалка"
+},
+
+{   
+    "title":"Умивальник",
+    "price": 8000,
+    "img":"6493299053_w640_h640_umyvalnik-rakovina-vbi.webp",
+    "description":"Умивальник"
+},
+
+{   
+    "title":"Чайник",
+    "price": 2000,
+    "img":"png-transparent-electric-kettle-mug-jug-kettle-electric-kettle-small-appliance-tennessee.png",
+    "description":"Чайник"
+},
+
+{   
+    "title":"Посудомийка",
+    "price": 13000,
+    "img":"posudomyika-60sm-indesit-dfe-1b19-13-24050911809538.jpg",
+    "description":"Посудомийка"
+},
+
+{   
+    "title":"Шафа",
+    "price":8000,
+    "img":"lnk18n5celm4bb9ctnddtmoeph.webp",
+    "description":"Шафа"
 }
-
-
-
 
 ]
