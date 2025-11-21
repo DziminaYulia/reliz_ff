@@ -29,15 +29,15 @@ async function getProducts() {
 
 function getCardHTML(product) {
   return `<div class="card" style="width: 18rem;">
-  <img src="img/${product.img}" <class="card-img-top" alt="...">
+  <img src="img/${product.img}" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">${product.title}</h5>
+    <div><h5 class="card-title">${product.title}</h5>
     <p class="card-text">${
       product.price
-    }Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
+    } грн</p></div>
     <a href="#" class="btn btn-primary" data-product='${JSON.stringify(
       product
-    )}'>додати в кошик</a>
+    )}'><img src="img/free-icon-remove-from-cart-18092491.png" class="logo-cart"alt="..."></a>
   </div>
 </div>`;
 }
